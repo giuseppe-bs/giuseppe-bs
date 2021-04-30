@@ -17,6 +17,6 @@
 - 📫 Como entrar em contato: giuseppescasstiotti@hotmail.com
 - 😄 Pronomes: ele/dele
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=minipepsi&hide_title=true&hide_border=true&langs_count=5)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minipepsi-trueversion&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=minipepsi&hide_title=true&hide_border=true&langs_count=5)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minipepsi)](https://github.com/anuraghazra/github-readme-stats)
