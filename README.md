@@ -19,6 +19,6 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minipepsi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minipepsi-trueversion&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppe-bs&theme=tokyonight&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minipepsi-trueversion&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppe-bsn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
